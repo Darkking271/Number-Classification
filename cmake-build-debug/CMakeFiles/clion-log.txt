@@ -1,0 +1,4 @@
+C:\Users\darki\.CLion2017.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/darki/Documents/School/2017-Fall/CSC-322/C_Practice/Number_Classification
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/darki/Documents/School/2017-Fall/CSC-322/C_Practice/Number_Classification/cmake-build-debug

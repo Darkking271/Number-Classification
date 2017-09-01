@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/num_split.dir/num_split.c.o  -o num_split.exe -Wl,--out-implib,libnum_split.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

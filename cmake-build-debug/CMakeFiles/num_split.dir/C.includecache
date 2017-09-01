@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/darki/Documents/School/2017-Fall/CSC-322/C_Practice/Number_Classification/cmake-build-debug/num_split.c
+stdio.h
+-
+
